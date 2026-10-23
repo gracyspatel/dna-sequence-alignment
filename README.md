@@ -222,6 +222,5 @@ The alignment algorithms themselves use only the standard library; `benchmark.py
 ---
 
 ## Authors
-
-Course project on Sequence Alignment implementing and comparing classical Dynamic Programming and Hirschberg's memory-efficient algorithm.
-Naman Gupta, Jaymin Sheladia, Vishwa Patel & Gracy Patel
+### Naman Gupta, Jaymin Sheladia, Vishwa Patel & Gracy Patel
+- Course project on Sequence Alignment implementing and comparing classical Dynamic Programming and Hirschberg's memory-efficient algorithm.
